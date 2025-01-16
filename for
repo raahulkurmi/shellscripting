@@ -1,0 +1,12 @@
+#!/bin/bash
+for i in {1..20}
+#!/bin/bash
+for i in {1..20}
+do
+ echo $i
+done
+~#!/bin/bash
+for i in {1..20}
+do
+ echo $i
+done

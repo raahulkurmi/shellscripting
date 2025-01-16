@@ -1,0 +1,7 @@
+#!/bin/bash
+#getting value from the file
+file="/users/rahulchaudhary/desktop/yudizintern/shell/rahul.txt
+for item in $(cat $rahul.txt)
+do
+echo $item
+done
